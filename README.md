@@ -9,5 +9,5 @@ Realtime video conferencing application using socket.io and peerJS.
 After download or clone run `npm install` to install all the dependancies.
 
 # DEMONSTRATION
-https://vitmeet.herokuapp.com/
+https://vitmeet.onrender.com/
 
